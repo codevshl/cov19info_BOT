@@ -1,0 +1,14 @@
+
+body {
+    background-image: url("Resources\covidimage.jpg"), url("Resources\covidimage.jpg");
+    background-color: #27f5e4;
+}
+h6 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+h1 {
+    font-family: "Times New Roman", Times, serif ;
+}
+p {
+    font-family: "Lucida Console", "Courier New";
+}
