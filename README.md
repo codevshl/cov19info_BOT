@@ -1,11 +1,22 @@
 # cov19info_BOT (FAQ)
+
 PROJECT MADE FOR FUTURE READY TALENT USING SERVICES FROM AZURE, VIRTUAL STUDIO CODE AND GITHUB.
+
 AZURE LEARNING MODULE USED: AI-900/AI-102
+
 PROJECT TITLE: COV19INFO_BOT (FAQ)
+
+
 PROJECT DESCRIPTION: As whole world is going through worst phase of pandemic, people usually requires information related to covid-19.Though one can use internet to search for live updates similarly one can use this bot to get authenticated information related to Covid-19 and the vaccines for COVID-19.
+
+
 PROBLEM STATEMENT: People want autheticated information related to COVID-19 and the vaccines available for same and they usually love to have interactive way to get the information.
+
+
 CORE AZURE TECHNOLOGIES USED: A QNA MAKER, AZURE BOT SERVICES, STATIC WEB APP.
+
 ADDITIONAL AZURE TECHNOLOGIES USED: APP SERVICE PLAN, COGNITIVE SEARCH.
+
 
 PROJECT URL: https://jolly-mushroom-0fa010900.1.azurestaticapps.net
 
